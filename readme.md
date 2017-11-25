@@ -31,7 +31,7 @@ git log --graph --decorate --pretty=oneline
 ## El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 >Si. El repo los commits de las ramas a mergear forman una estructura de arbol. Aun así yo hice un merge no fastforward.
 
-##¿Qué comando o comandos utilizaste en el paso 27?
+## ¿Qué comando o comandos utilizaste en el paso 27?
 ```
 git reset HEAD~1
 ```
