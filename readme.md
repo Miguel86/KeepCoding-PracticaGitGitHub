@@ -1,6 +1,6 @@
-#Preguntas
+# Preguntas
 
-##¿Qué comando utilizaste en el paso 11? ¿Por qué?
+## ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 
 ```
 git reset --hard HEAD~1
@@ -57,7 +57,7 @@ git reset --hard 81bc1cf
 git reset --hard 6f5c800
 ```
 
-##¿Qué comando o comandos usaste en el punto 33?
+## ¿Qué comando o comandos usaste en el punto 33?
 ```
 git reset --hard 81bc1cf
 ```
